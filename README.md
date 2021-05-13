@@ -1,2 +1,3 @@
 # project-templates
-Templates for starting up projects faster
+Templates for starting up projects faster.
+
