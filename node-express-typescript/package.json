@@ -1,7 +1,7 @@
 {
   "name": "node-express-typescript",
   "version": "1.0.0",
-  "description": "Server that gets music from yt or spotify via youtube-dland then streams it via sockets",
+  "description": "Template using Node/Express with Typescript",
   "main": "index.ts",
   "scripts": {
     "start": "npm run build && node build/index.js",
